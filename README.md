@@ -7,19 +7,11 @@ Things you may want to cover:
 
 * Ruby version
 
-2.6.3
-
 * System dependencies
-
-Rails 6.1.3
 
 * Configuration
 
-no
-
 * Database creation
-
-no
 
 * Database initialization
 
